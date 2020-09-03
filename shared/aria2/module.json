@@ -1,0 +1,17 @@
+{
+  "name": "libAria",
+  "desc": "this is an download engine based aria2，这是基于Aria2的下载引擎。",
+  "platforms": [{
+      "arch": 64,
+      "platform": "windows",
+      "descriptor": "windows-x64"
+  },{
+    "arch": 32,
+    "platform": "windows",
+    "descriptor": "window-x86"
+  },{
+    "arch": 64,
+    "platform": "mac",
+    "descriptor": "mac-x64"
+  }]
+}

@@ -1,0 +1,13 @@
+EXPORTS
+    JNI_OnLoad @1
+    JNI_OnUnload @2
+    Java_org_swdc_aria2_impl_NativeImpl_addUrl @3
+    Java_org_swdc_aria2_impl_NativeImpl_closeSession @4
+    Java_org_swdc_aria2_impl_NativeImpl_createSessionImpl @5
+    Java_org_swdc_aria2_impl_NativeImpl_doDownload @6
+    Java_org_swdc_aria2_impl_NativeImpl_getActiveDownloads @7
+    Java_org_swdc_aria2_impl_NativeImpl_pauseDownload @8
+    Java_org_swdc_aria2_impl_NativeImpl_refreshDownload @9
+    Java_org_swdc_aria2_impl_NativeImpl_stopDownload @10
+    Java_org_swdc_aria2_impl_NativeImpl_unPauseDownload @11
+    _Z50Java_org_swdc_aria2_impl_NativeImpl_finalizeNativeP7JNIEnv_P7_jclass @12

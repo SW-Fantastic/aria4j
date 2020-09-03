@@ -1,0 +1,15 @@
+{
+  "library": "jAria",
+  "dependencies": [{
+    "library": "aria2.0",
+    "dependencies": [
+      {"library": "stdc++.6.0.9"},
+      {"library": "expat.1"},
+      {"library": "ssl.35"},
+      {"library": "cares.2"},
+      {"library": "gmp.10"},
+      {"library": "sqlite3"},
+      {"library": "z.1"},
+      {"library": "ssh2.1"}]
+  }]
+}

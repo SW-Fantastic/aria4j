@@ -1,0 +1,15 @@
+{
+  "library": "JAria",
+  "dependencies": [{
+    "library": "libaria2-0",
+    "dependencies": [
+      {"library": "libgcc_s_seh-1"},
+      {"library": "libstdc++-6"},
+      {"library": "libexpat-1"},
+      {"library": "libcares-2"},
+      {"library": "libgmp-10"},
+      {"library": "libsqlite3-0"},
+      {"library": "zlib1"},
+      {"library": "libssh2-1"}]
+  }]
+}

@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1598933414 source:h:\code-block-project\aria4j\jaria\main.cpp
+	"main.h"
+	"aria2.h"
+	<iostream>
+	<cstring>
+
+1598916424 h:\code-block-project\aria4j\jaria\main.h
+	"jni.h"
+
+1598170141 h:\code-block-project\aria4j\jaria\jni.h
+	<stdio.h>
+	<stdarg.h>
+	"jni_md.h"
+
+1598170141 h:\code-block-project\aria4j\jaria\jni_md.h
+
+1598572266 h:\code-block-project\aria4j\jaria\aria2.h
+	<stdlib.h>
+	<stdint.h>
+	<sys/types.h>
+	<string>
+	<vector>
+
